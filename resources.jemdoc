@@ -1,0 +1,9 @@
+# jemdoc: menu{MENU}{resources.html}, nofooter
+= Resources
+
+Online resources to get started with computer vision:
+- [https://mml-book.github.io/ Mathematics for Machine Learing]
+- [https://academic.oup.com/nsr/article/7/9/1422/5859953 How to read scientific papers?]
+- [https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php Deep learning by HUNG-YI LEE]
+- [https://cs229.stanford.edu/ CS229: Machine Learning]
+- [http://cs231n.stanford.edu/ CS231n: Deep Learning for Computer Vision]
